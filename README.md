@@ -1,2 +1,2 @@
 # RPGAdventure
-COSC 4348 - Group 6
+COSC 4348 - Group 2
